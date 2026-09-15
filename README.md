@@ -1,28 +1,27 @@
-# 🌦️ Arduino-Based Weather Monitoring & Environmental Safety Station
+ Arduino-Based Weather Monitoring & Environmental Safety Station
 
 An Arduino Uno based environmental monitoring system designed and simulated in **Tinkercad**. The project monitors multiple environmental parameters using sensors and displays the collected information on a **16x2 LCD**. A piezo buzzer is also used to provide an audible warning when predefined safety conditions are detected.
 
 This project was developed as a **Minor Project for the IoT & Robotics Training Program**.
 
 ---
-
-## 📌 Project Overview
+ Project Overview
 
 The **Weather Monitoring and Environmental Safety Station** is an embedded-system project based on the **Arduino Uno R3**.
 
 The system continuously collects environmental information from:
 
-- 🌡️ **TMP36 Temperature Sensor** – measures temperature
-- 💡 **Photoresistor / LDR** – detects ambient light intensity
-- 🛡️ **Gas Sensor** – detects changes in gas concentration
-- 🔊 **Piezo Buzzer** – generates an alert when unsafe conditions are detected
-- 📺 **16x2 LCD** – displays sensor readings and system information
+-  **TMP36 Temperature Sensor** – measures temperature
+-  **Photoresistor / LDR** – detects ambient light intensity
+-  **Gas Sensor** – detects changes in gas concentration
+-  **Piezo Buzzer** – generates an alert when unsafe conditions are detected
+-  **16x2 LCD** – displays sensor readings and system information
 
 The complete circuit was designed and tested virtually using **Autodesk Tinkercad**, allowing the system to be developed and tested without requiring physical hardware.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -37,7 +36,7 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time environmental monitoring
 - Temperature measurement
@@ -53,7 +52,7 @@ The main objectives of this project are:
 
 ---
 
-## 🧰 Components Used
+##  Components Used
 
 | Component | Quantity | Purpose |
 |---|---:|---|
@@ -72,7 +71,7 @@ The main objectives of this project are:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The basic system architecture is:
 
